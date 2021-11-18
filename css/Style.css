@@ -1,5 +1,27 @@
-.aboutme{text-align: center; 
+.aboutme{text-align:center; 
     font-size:xx-large;
     font-style: italic;
     font-family:Lucida Handwriting;
 }
+
+.mydetails {
+        padding: left 2px;
+        padding: right 5px;
+        padding: top 5px;
+        float:right;
+        width:40%;
+}
+
+.pagebg {
+    background-image: url("\images\background.jpg");
+    background-color:honeydew;
+    height: 500px;
+    background-size: cover;
+    background-position:center;
+   }
+
+   .Zebra {max-width: 40pc;
+    max-height: 40pc;
+        
+
+   }
