@@ -5,11 +5,13 @@
 }
 
 .mydetails {
-        padding: left 2px;
+        padding: left 5px;
         padding: right 5px;
         padding: top 5px;
         float:right;
         width:40%;
+        font-family:serif;
+        font-size: large;
 }
 
 .pagebg {
@@ -20,8 +22,17 @@
     background-position:center;
    }
 
-   .Zebra {max-width: 40pc;
+   .Lotus {max-width: 40pc;
     max-height: 40pc;
-        
+
+   }
+
+   #hellen {
+    font-style: italic;
+    font-size:large;
+    font-family:Lucida Handwriting;
+   }
+   #courses{
+    font-weight: 200;
 
    }
