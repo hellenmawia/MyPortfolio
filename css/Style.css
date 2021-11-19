@@ -40,3 +40,14 @@ h4{font-style: italic;
     font-weight: 200;
 
    }
+
+   a:link {
+    color: blue;
+  }
+
+   a:visited {
+    color: red;
+  }
+
+   
+   
