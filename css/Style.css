@@ -1,5 +1,11 @@
-.aboutme{text-align:center; 
+.name{text-align:left; 
     font-size:xx-large;
+    font-style: italic;
+    font-family:Lucida Handwriting;
+}
+
+h4 {
+    
     font-style: italic;
     font-family:Lucida Handwriting;
 }
