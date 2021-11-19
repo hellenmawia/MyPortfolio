@@ -1,8 +1,10 @@
-.aboutme{text-align:center; 
+.Mainheader{text-align:left; 
     font-size:xx-large;
     font-style: italic;
     font-family:Lucida Handwriting;
 }
+h4{font-style: italic;
+    font-family:Lucida Handwriting; }
 
 .mydetails {
         padding: left 5px;
